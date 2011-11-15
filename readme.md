@@ -16,11 +16,11 @@ You are free to reconfigure this structure for each new project you start.
 
 First copy all files to your `windows\System32` directory. 
 
-Afterwards you can create a new folder for your project anywhere you want. 
-Change to that folder, press SHIFT+RIGHTCLICK in an empty area of that folder and select "Open command window here". 
+Then create a new folder for your project anywhere you want. 
+Go to that folder in your Windows Explorer, press SHIFT+RIGHTCLICK in an empty area and select *Open command window here*. 
 Type `kickstart` and select what you need!
 
-If you decided to create sass/scss files you can start watching them by just typing `startwork` or just select "Start working" from the kickstarter options menu.
+If you decided to create sass/scss files (enabled by default) you can let sass watch the .scss files as you edit them by just typing `startwork` or just select *Start working* from the kickstarter options menu.
 
 
 ### Features ###

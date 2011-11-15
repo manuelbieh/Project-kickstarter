@@ -14,7 +14,7 @@ You are free to reconfigure this structure for each new project you start.
 
 ### Short instruction ###
 
-First copy all files to your windows\system32 directory. 
+First copy all files to your `windows\System32` directory. 
 
 Afterwards you can create a new folder for your project anywhere you want. 
 Change to that folder, press SHIFT+RIGHTCLICK in an empty area of that folder and select "Open command window here". 

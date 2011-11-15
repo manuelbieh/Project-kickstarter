@@ -2,13 +2,13 @@
 
 This kickstarter allows you to create a complete web project folder structure with just a few keypresses. By default the generated structure is:
 
-`/
+<pre>/
 /assets
 /assets/css
 /assets/img
 /assets/js
 /assets/scss
-/index.html`
+/index.html</pre>
 
 You are free to reconfigure this structure for each new project you start.
 

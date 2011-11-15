@@ -25,7 +25,7 @@ If you decided to create sass/scss files you can start watching them by just typ
 
 ### Features ###
 
-* Generate a full project folder structure (see above) with folders for your HTML, CSS, SCSS, JavaScript and images in seconds!
+* Generate a full project folder structure (see above) with folders for your HTML, CSS, SCSS, JavaScript and images within seconds!
 * Create complete HTML5, XHTML or HTML4 templates with (if you like) links to the Google CDN version of jQuery and an empty stylesheet
 * Create empty CSS and JavaScript that will be placed in the according folder
 * Type `startwork` to let SASS watch your scss changes. No more hassle with typing complicated stuff like `sass --watch path/to/my/scss:path/to/my/css`. SCSS directory is recognized automatically.

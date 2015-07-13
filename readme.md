@@ -1,3 +1,7 @@
+# ATTENTION
+
+This collection of batchfiles is from the pre-Yeoman age. Don't use it. Use advanced tools like [Yeoman](http://yeoman.io/) instead.
+
 ## Project kickstarter ##
 
 This kickstarter allows you to create a complete web project folder structure with just a few keypresses. By default the generated structure is:
